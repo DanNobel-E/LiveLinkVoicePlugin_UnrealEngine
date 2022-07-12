@@ -19,7 +19,7 @@ Download the *LiveLinkVoicePlugin* directory from this repository, then copy it 
 * Sound *Volume*.
 * Sound *Pitch*.
 
-## Example.
+## Example:
 
 Let's try to implement a **LiveLink Voice Source** as a World Light Controller.
 
@@ -53,6 +53,6 @@ You'll need a **LiveLink Voice Controller** in order to connect a **Voice Source
 
 Tha game is set. Now you can create your own *Actor*, add your **LiveLink Voice Controller** as a component and use it to access "***Start Capture***" and "***Stop Capture***" blueprint functions. Possibilities are endless!
 
-> You can use Live Link window **LED** as a feedback for your voice Capture. **Waiting = Yellow / Capturing = Green**.
+> You can use Live Link window **LED** as a feedback for your voice Capture. --> **Waiting = Yellow / Capturing = Green**.
 
 
