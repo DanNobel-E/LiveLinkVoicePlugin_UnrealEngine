@@ -2,7 +2,8 @@
 An Unreal 5.0.2 plugin to implement audio source capture through **Live Link Plugin**.
 
 ## Requirements 
-* Unreal LiveLink Plugin. 
+* **Unreal LiveLink Plugin.** 
+
 You can add the plugin to your project by going to *Edit->Plugins* menu entry, then search for "**Live Link**" and set *Enable On*. After reloading the project, go to *Window->Virtual Productuon->Live Link* to open Live Link source window.
 
 ## How to install
@@ -22,4 +23,15 @@ Download the *LiveLinkVoicePlugin* directory from this repository, then copy it 
 
 Let's try to implement a **LiveLink Voice Source** as a World Light Controller.
 
-* 
+* ### Step 1: *Create LiveLink Voice Source*
+
+On Live Link source window, click on *Add* button and select Voice Source on the menu. A LiveLink Voice Source will appear inside the window, automatically linked to the default input audio device of your platform.
+
+* ### Step 2: *Voice Settings*
+
+Together with the creation of the Voice Source a Voice Settings Asset will be generated. Inside, you can set useful parameters about Voice Capture rate anch Pitch Curve implemantation. 
+
+| Name | Description|
+|------|------------|
+|
+
