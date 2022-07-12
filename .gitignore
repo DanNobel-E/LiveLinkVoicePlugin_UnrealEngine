@@ -55,6 +55,7 @@ Build/*
 Source/*
 Plugins/MyLiveLinkPlugin/*
 Content/*
+*.uproject
 
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
